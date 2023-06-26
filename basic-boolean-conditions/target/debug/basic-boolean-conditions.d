@@ -1,0 +1,1 @@
+/Users/evalenzuela/Aurasix/Training/playing-with-rust/basic-boolean-conditions/target/debug/basic-boolean-conditions: /Users/evalenzuela/Aurasix/Training/playing-with-rust/basic-boolean-conditions/src/main.rs
